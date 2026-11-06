@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/zopefoundation/zope.i18nmessageid/commit/f4639e2995f0e048bfa1e041ec6f94a45f2e6659",
       "git:hexsha": "f4639e2995f0e048bfa1e041ec6f94a45f2e6659",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T01:26:10.971237+00:00"
     },
     {
       "@id": "https://repolex.ai/r/zopefoundation/zope.i18nmessageid/commit/7de1d825fb7eb6fb9aa9ec1eabd190b37c8513f5",
