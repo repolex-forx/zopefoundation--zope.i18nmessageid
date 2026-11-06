@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "zope.i18nmessageid",
+  "versions": [
+    {
+      "commit": "f4639e2995f0e048bfa1e041ec6f94a45f2e6659",
+      "tag": "",
+      "parsed_at": "2026-11-06T01:26:10.972254+00:00"
+    }
+  ]
+}
