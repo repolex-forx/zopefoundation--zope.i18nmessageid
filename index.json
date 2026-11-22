@@ -3,6 +3,11 @@
   "repo": "zope.i18nmessageid",
   "versions": [
     {
+      "commit": "8e136365621879c5eecad84fb61684c6ac287d91",
+      "tag": "8.2",
+      "parsed_at": "2026-11-22T01:18:00.355389+00:00"
+    },
+    {
       "commit": "f4639e2995f0e048bfa1e041ec6f94a45f2e6659",
       "tag": "",
       "parsed_at": "2026-11-06T01:26:10.972254+00:00"
